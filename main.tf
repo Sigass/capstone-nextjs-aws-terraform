@@ -51,5 +51,5 @@ module "monitoring" {
   alb_arn_suffix          = module.alb.alb_arn_suffix
   target_group_arn_suffix = module.alb.target_group_arn_suffix
 
-  email = "sigahnouarmand@gmail.com"
+  email = "email@gmail.com"
 }
